@@ -1,10 +1,10 @@
 @font-face {
-   font-family: 'GoogleSans-Bold';
+   font-family: 'LSFont-Bold';
    font-display: swap;
-   src: url('GoogleSans-Bold/font.ttf');
+   src: url('LSFont-Bold/font.ttf');
 }
 @font-face {
-   font-family: 'GoogleSans-Regular';
+   font-family: 'LSFont-Regular';
    font-display: swap;
-   src: url('GoogleSans-Regular/font.ttf');
+   src: url('LSFont-Regular/font.ttf');
 }
