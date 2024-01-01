@@ -748,6 +748,7 @@ input[type=range] {
 
 html,
 body {
+  overflow-y: hidden;
   height: auto;
   min-height: 100vh;
 }
@@ -966,7 +967,7 @@ blockquote {
 }
 
 .scroll {
-  height: 696px;
+  height: auto;
   overflow-y: scroll;
   direction: ltr;
   scrollbar-color: #d4aa70 #e4e4e4;
